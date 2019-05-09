@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
     </url>
     
@@ -23,8 +23,15 @@
     
     <url>
     
-      <loc>/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
+      <loc>/home%5Cposts/</loc>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/home%5Ctheses/</loc>
     </url>
     
   
