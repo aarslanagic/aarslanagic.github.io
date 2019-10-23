@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Authors | Alen&#39;s Homepage</title>
-    <link>/authors/</link>
-      <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alenarslanagic.net/authors/</link>
+      <atom:link href="https://alenarslanagic.net/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://alenarslanagic.net/img/icon-192.png</url>
       <title>Authors</title>
-      <link>/authors/</link>
+      <link>https://alenarslanagic.net/authors/</link>
     </image>
     
     <item>
       <title></title>
-      <link>/authors/admin/</link>
+      <link>https://alenarslanagic.net/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>/authors/admin/</guid>
+      <guid>https://alenarslanagic.net/authors/admin/</guid>
       <description>&lt;p&gt;I am second year PhD student at University of Groningen (The Netherlands) under the supervision of &lt;a href=&#34;http://www.jorgeaperez.net&#34;&gt;Dr. Jorge A. Pérez&lt;/a&gt;
 and &lt;a href=&#34;http://www.rug.nl/staff/g.r.renardel.de.lavalette/&#34;&gt;Prof. Gerard Renardel de Lavalette&lt;/a&gt;.
 My research work concerns tools for rigorous software development, in particular

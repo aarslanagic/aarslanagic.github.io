@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alen&#39;s Homepage</title>
-    <link>/</link>
-      <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://alenarslanagic.net/</link>
+      <atom:link href="https://alenarslanagic.net/index.xml" rel="self" type="application/rss+xml" />
     <description>Alen&#39;s Homepage</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/img/icon-192.png</url>
+      <url>https://alenarslanagic.net/img/icon-192.png</url>
       <title>Alen&#39;s Homepage</title>
-      <link>/</link>
+      <link>https://alenarslanagic.net/</link>
     </image>
     
   </channel>
